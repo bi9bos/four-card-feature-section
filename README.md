@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot 2022-08-22 at 17-20-34 Frontend Mentor Four Card Feature Section](https://user-images.githubusercontent.com/91544648/189252305-a6061e3a-726d-448e-ba8b-9e485263b473.png)
+![Screenshot 2022-08-22 at 17-20-53 Frontend Mentor Four Card Feature Section](https://user-images.githubusercontent.com/91544648/189252320-1f7b185e-0a21-464f-a5cf-160c519dd989.png)
 
 
 
